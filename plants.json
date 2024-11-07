@@ -1,0 +1,204 @@
+{
+    "plants": [
+        {
+            "name": "Aloe Vera",
+            "description": "A succulent plant known for its thick, fleshy leaves.",
+            "uses": "Used topically for burns, cuts, and skin hydration."
+        },
+        {
+            "name": "Amla",
+            "description": "Also known as Indian gooseberry, rich in vitamin C.",
+            "uses": "Promotes digestion, boosts immunity, and supports hair health."
+        },
+        {
+            "name": "Amruta Balli",
+            "description": "A climbing plant valued for its medicinal properties.",
+            "uses": "Known to enhance immunity and reduce cough and fever."
+        },
+        {
+            "name": "Arali",
+            "description": "A flowering plant with fragrant blossoms.",
+            "uses": "Used in traditional medicine to treat respiratory issues."
+        },
+        {
+            "name": "Ashoka",
+            "description": "A sacred tree with bright orange flowers.",
+            "uses": "Used for menstrual disorders and to relieve stress."
+        },
+        {
+            "name": "Ashwagandha",
+            "description": "An adaptogenic herb that helps the body cope with stress.",
+            "uses": "Supports mental health, reduces anxiety, and boosts energy."
+        },
+        {
+            "name": "Avocado",
+            "description": "A nutrient-rich fruit with creamy texture.",
+            "uses": "Promotes heart health and aids in nutrient absorption."
+        },
+        {
+            "name": "Bamboo",
+            "description": "A fast-growing grass known for its strength and flexibility.",
+            "uses": "Used in traditional medicine for respiratory health."
+        },
+        {
+            "name": "Basale",
+            "description": "A medicinal herb with aromatic leaves.",
+            "uses": "Commonly used for digestive and respiratory issues."
+        },
+        {
+            "name": "Betel",
+            "description": "A leaf widely used in culinary and cultural practices.",
+            "uses": "Promotes oral health and digestion."
+        },
+        {
+            "name": "Betel Nut",
+            "description": "The seed of the areca palm, often chewed for stimulation.",
+            "uses": "Traditionally used for its stimulant and digestive properties."
+        },
+        {
+            "name": "Brahmi",
+            "description": "A small herb known for its cognitive benefits.",
+            "uses": "Improves memory and reduces anxiety."
+        },
+        {
+            "name": "Castor",
+            "description": "A plant known for its seeds containing castor oil.",
+            "uses": "Used as a laxative and for skin care."
+        },
+        {
+            "name": "Curry Leaf",
+            "description": "A fragrant leaf used in cooking and traditional medicine.",
+            "uses": "Supports digestive health and may lower blood sugar."
+        },
+        {
+            "name": "Doddapatre",
+            "description": "An herb with strong medicinal properties.",
+            "uses": "Used to treat coughs, colds, and inflammation."
+        },
+        {
+            "name": "Ekka",
+            "description": "A plant known for its medicinal roots.",
+            "uses": "Often used in herbal remedies for digestive health."
+        },
+        {
+            "name": "Ganike",
+            "description": "A traditional herb used in folk medicine.",
+            "uses": "Known to help with respiratory issues."
+        },
+        {
+            "name": "Guava",
+            "description": "A tropical fruit rich in vitamins and antioxidants.",
+            "uses": "Supports immune health and aids digestion."
+        },
+        {
+            "name": "Geranium",
+            "description": "A flowering plant valued for its essential oils.",
+            "uses": "Used in aromatherapy and for skin care."
+        },
+        {
+            "name": "Henna",
+            "description": "A plant used for dyeing hair and skin.",
+            "uses": "Traditionally used for its cooling properties and skin healing."
+        },
+        {
+            "name": "Hibiscus",
+            "description": "A vibrant flower known for its tart flavor.",
+            "uses": "Supports heart health and aids in lowering blood pressure."
+        },
+        {
+            "name": "Honge",
+            "description": "A plant known for its fragrant flowers.",
+            "uses": "Used to treat respiratory conditions."
+        },
+        {
+            "name": "Insulin",
+            "description": "A hormone derived from the pancreas.",
+            "uses": "Essential for managing diabetes."
+        },
+        {
+            "name": "Jasmine",
+            "description": "A fragrant flower often used in perfumes.",
+            "uses": "Promotes relaxation and can be used for skin health."
+        },
+        {
+            "name": "Lemon",
+            "description": "A citrus fruit rich in vitamin C.",
+            "uses": "Boosts immunity and aids in digestion."
+        },
+        {
+            "name": "Lemon Grass",
+            "description": "A tall, aromatic grass used in cooking.",
+            "uses": "Known for its digestive benefits and anti-inflammatory properties."
+        },
+        {
+            "name": "Mango",
+            "description": "A tropical stone fruit known for its sweetness.",
+            "uses": "Rich in vitamins and supports skin health."
+        },
+        {
+            "name": "Mint",
+            "description": "An aromatic herb often used in culinary dishes.",
+            "uses": "Aids digestion and provides a cooling effect."
+        },
+        {
+            "name": "Nagadali",
+            "description": "A plant with various traditional uses.",
+            "uses": "Used for its anti-inflammatory and antiseptic properties."
+        },
+        {
+            "name": "Neem",
+            "description": "A tree known for its medicinal leaves and bark.",
+            "uses": "Has antibacterial properties and is used for skin conditions."
+        },
+        {
+            "name": "Nithyapushpa",
+            "description": "A flowering plant with aromatic blooms.",
+            "uses": "Known for its calming effects and respiratory benefits."
+        },
+        {
+            "name": "Nooni",
+            "description": "A traditional herb with numerous benefits.",
+            "uses": "Used for digestive issues and skin health."
+        },
+        {
+            "name": "Papaya",
+            "description": "A tropical fruit known for its digestive enzymes.",
+            "uses": "Aids digestion and supports skin health."
+        },
+        {
+            "name": "Pepper",
+            "description": "A spice derived from peppercorns.",
+            "uses": "Stimulates digestion and has antioxidant properties."
+        },
+        {
+            "name": "Pomegranate",
+            "description": "A fruit known for its high antioxidant content.",
+            "uses": "Supports heart health and may reduce inflammation."
+        },
+        {
+            "name": "Raktachandini",
+            "description": "A plant valued for its medicinal roots.",
+            "uses": "Used in traditional remedies for skin conditions."
+        },
+        {
+            "name": "Rose",
+            "description": "A flowering plant known for its beauty and fragrance.",
+            "uses": "Used in skincare and to promote emotional well-being."
+        },
+        {
+            "name": "Sapota",
+            "description": "A sweet tropical fruit with a grainy texture.",
+            "uses": "Rich in vitamins and aids in digestion."
+        },
+        {
+            "name": "Tulsi",
+            "description": "A sacred herb in Indian culture known for its healing properties.",
+            "uses": "Supports immune health and reduces stress."
+        },
+        {
+            "name": "Wood Sorel",
+            "description": "A plant with clover-like leaves and a sour taste.",
+            "uses": "Used for digestive health and as a natural diuretic."
+        }
+    ]
+}
